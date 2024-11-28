@@ -12,9 +12,8 @@ Moody AI is an AI-powered mental well-being system designed to help users feel b
 To create a user-friendly AI system that supports mental health and encourages positive lifestyle habits.
 
 ## Technologies Used
-- **MindsDB**: For AI model deployment and database integration.
+- **HuggingFace**: For AI model deployment.
 - **LabLab Platform**: Hackathon platform for collaboration and development.
-- **Other Technologies**: [List additional frameworks, libraries, or tools you used.]
 
 ## How to Use
 1. Clone this repository:
